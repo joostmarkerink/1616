@@ -1,5 +1,5 @@
 # 1616
-Implementation of "Pixel-Canvas" for a 16x16 dot matrix display.
+Implementation of [Pixel-Canvas](https://github.com/joostmarkerink/Pixel-Canvas) for a 16x16 dot matrix display.
 
 ### todo
 
