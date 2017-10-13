@@ -3,4 +3,4 @@ Implementation of "Pixel-Canvas" for a 16x16 dot matrix display.
 
 ### todo
 
-- [ ] HT1632C Driver implementation
+- [ ] [HT1632C](http://www.holtek.com/documents/10179/116711/HT1632Cv160.pdf) Driver implementation
